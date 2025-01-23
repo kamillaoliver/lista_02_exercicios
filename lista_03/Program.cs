@@ -1,0 +1,2 @@
+﻿/*Ex. 03 _Uma escola deseja saber quantos alunos foram aprovados 
+ * em uma disciplina. O aluno deverásolicitar que o usuário minsira as notas dos alunos de 0 a 10 e, ao digitar -1, encerrará a entrada. Em seguida, deve contar quantos alunos tiveram nota maior ou igua a 6, utilizando as três estruturas de repetição*/ 

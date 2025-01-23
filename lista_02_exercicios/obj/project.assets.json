@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\lista_02_exercicios.csproj",
-      "projectName": "lista_02_exercicios",
-      "projectPath": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\lista_02_exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\lista_02.csproj",
+      "projectName": "lista_02",
+      "projectPath": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\lista_02.csproj",
       "packagesPath": "C:\\Users\\kamilla.msoliveira\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\obj\\",
       "projectStyle": "PackageReference",

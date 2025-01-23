@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{155E6762-5226-4929-92D3-B0A2DA863868}|lista_01\\lista_01.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155E6762-5226-4929-92D3-B0A2DA863868}|lista_01\\lista_01.csproj|solutionrelative:lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA7959E5-8692-4A6B-97EA-900D7F6707C4}|lista_02_exercicios\\lista_02_exercicios.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA7959E5-8692-4A6B-97EA-900D7F6707C4}|lista_02_exercicios\\lista_02_exercicios.csproj|solutionrelative:lista_02_exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\Program.cs",
               "RelativeDocumentMoniker": "lista_02_exercicios\\Program.cs",
               "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_02_exercicios\\Program.cs",
               "RelativeToolTip": "lista_02_exercicios\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T19:24:37.018Z",
+              "WhenOpened": "2025-01-23T19:24:37.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_01\\Program.cs",
+              "RelativeDocumentMoniker": "lista_01\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\lista_02_exercicios\\lista_01\\Program.cs",
+              "RelativeToolTip": "lista_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:39:59.348Z",
               "EditorCaption": ""
             }
           ]
