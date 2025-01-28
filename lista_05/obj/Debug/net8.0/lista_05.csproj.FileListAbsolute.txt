@@ -1,0 +1,15 @@
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\bin\Debug\net8.0\lista_05.exe
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\bin\Debug\net8.0\lista_05.deps.json
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\bin\Debug\net8.0\lista_05.runtimeconfig.json
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\bin\Debug\net8.0\lista_05.dll
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\bin\Debug\net8.0\lista_05.pdb
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\lista_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\lista_05.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\lista_05.AssemblyInfo.cs
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\lista_05.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\lista_05.sourcelink.json
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\lista_05.dll
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\refint\lista_05.dll
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\lista_05.pdb
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\lista_05.genruntimeconfig.cache
+C:\Users\kamil\source\repos\lista_02_exercicios\lista_05\obj\Debug\net8.0\ref\lista_05.dll
